@@ -1,0 +1,82 @@
+/***************************************
+* Created by: Misty Dela Cruz
+* Created on: 2/7/2024
+* Last Modified: 4/16/2024
+* Updates:
+* Styling the webpage as needed
+***************************************/
+
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.split {
+  width: 50%;
+  height: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.left {
+  left: 0;
+  background-color: rgba(226, 231, 255, 1);
+}
+
+.left .logo {
+  padding-left: 20px;
+}
+
+.left .logo img {
+  width: 150px;
+}
+
+.left-content {
+  background-color: white;
+  position: absolute;
+  top: 25%;
+  left: 10%;
+  width: 75%;
+  text-align: left;
+  padding: 3%;
+  border-radius: 5px;
+}
+
+p {
+  font-size: 25px;
+}
+
+p strong strong {
+  color: rgba(128, 81, 255, 1);
+}
+
+.register p {
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+em {
+  color: rgba(128, 81, 255, 1);
+  text-decoration: underline;
+}
+
+.first-button {
+  display: flex;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.sec-button {
+  display: flex;
+  padding-bottom: 30px;
+}
+
+.right {
+  right: 0;
+  top: 15%;
+  bottom: 20%;
+}
