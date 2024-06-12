@@ -1,4 +1,4 @@
-# Atlassian Design System Login Page ✅
+# Atlassian Design Login Page ✅
 
 This project utilizes buttons and icons from the Atlassian Design System. useStates are used to create the image carousel.
 
